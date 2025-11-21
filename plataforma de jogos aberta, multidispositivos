@@ -1,0 +1,36 @@
+🌟 Ideia de Plataforma de Criação de Jogos
+Resumo da proposta: Imagine uma plataforma estilo Roblox, mas com a possibilidade de escolher diferentes motores gráficos logo ao iniciar a criação do jogo. O criador teria opções como:
+
+2D (pixel art, retrô)
+
+2.5D tiled (estilo Project Zomboid)
+
+3D blocks (estilo Minecraft)
+
+3D voxels
+
+Entre outros estilos visuais
+
+Tudo isso rodando em qualquer dispositivo (PC, celular, console), mantendo a acessibilidade e comunidade que já conhecemos em Roblox.
+
+🛠️ Modos de Criação
+Modo Simples:
+
+Personalização rápida usando mods prontos para alterar gráficos, mecânicas básicas e sistemas comuns.
+
+Ideal para iniciantes ou quem quer criar algo rápido.
+
+Modo Avançado:
+
+Além dos mods, o criador pode usar códigos, scripts e APIs para modificar profundamente o motor.
+
+Permite criar mecânicas únicas, sistemas complexos e jogos mais elaborados.
+
+🎯 Diferenciais da ideia
+Flexibilidade: múltiplos estilos gráficos em uma única plataforma.
+
+Inclusão: acessível para iniciantes, mas poderoso para desenvolvedores avançados.
+
+Comunidade: marketplace de mods, códigos e templates compartilhados.
+
+Escalabilidade: jogos simples podem evoluir para projetos grandes sem migrar para outra engine.
